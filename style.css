@@ -21,7 +21,7 @@ body {
     background-color: #0284c7;
     display: grid;
     grid-auto-flow: column;
-    grid-template-rows: 10% 40% 20%;
+    grid-template-rows: 8% 30% 20%;
     padding: 15px;
     color: #FFFFFF;
 }
